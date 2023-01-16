@@ -1,0 +1,5 @@
+_target_: src.datamodules.opp_datamodule.OppDataModule
+data_dir: /home/ds/Documents/Xomad/dataset/dataset_clean
+batch_size: 24
+num_workers: 16
+pin_memory: False
